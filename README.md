@@ -76,6 +76,15 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
     Once the client is running, you will see a localhost link in the terminal. You can either click on the link or go to `http://localhost:5173/` in your web browser to view the application.
 
+## Demo Video
+
+You can watch a demo of the MUQuest web app here:
+
+<video width="600" controls>
+  <source src="https://github.com/rohanshanavas/MUQuest-Questionnaire-Designer/blob/main/MUQuest%20Web%20App%20Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Additional Information
 
 If you encounter any issues, make sure all dependencies are correctly installed and that both the server and client are running without errors.
