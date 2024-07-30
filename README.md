@@ -2,6 +2,12 @@
 
 **MUQuest** is a comprehensive tool designed for creating, managing, and analyzing questionnaires. This application provides a user-friendly interface for designing questionnaires, collecting responses, and visualizing data through various types of charts and tables. It's a valuable tool for researchers, educators, and businesses who need to gather and analyze feedback efficiently.
 
+## Demo Video
+
+You can watch a demo of the MUQuest web app here:
+
+https://github.com/user-attachments/assets/b29d1400-71ff-4058-9b1e-bdceab72cf4f
+
 ## Prerequisites
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
@@ -75,12 +81,6 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 7. **Access the Application**
 
     Once the client is running, you will see a localhost link in the terminal. You can either click on the link or go to `http://localhost:5173/` in your web browser to view the application.
-
-## Demo Video
-
-You can watch a demo of the MUQuest web app here:
-
-https://github.com/user-attachments/assets/b29d1400-71ff-4058-9b1e-bdceab72cf4f
 
 ## Additional Information
 
