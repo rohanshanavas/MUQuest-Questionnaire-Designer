@@ -80,7 +80,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 You can watch a demo of the MUQuest web app here:
 
-[![Watch the video](https://raw.githubusercontent.com/rohanshanavas/MUQuest-Questionnaire-Designer/main/client/thumbnail.png)](https://raw.githubusercontent.com/rohanshanavas/MUQuest-Questionnaire-Designer/main/MUQuest%20Web%20App%20Demo.mp4)
+https://github.com/user-attachments/assets/b29d1400-71ff-4058-9b1e-bdceab72cf4f
 
 ## Additional Information
 
